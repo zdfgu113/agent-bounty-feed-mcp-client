@@ -1,0 +1,9 @@
+{
+  "name": "agent-bounty-feed-mcp-client",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node --test", "start": "node client.mjs" }
+}
